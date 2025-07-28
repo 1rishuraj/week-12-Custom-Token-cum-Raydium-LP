@@ -1,9 +1,16 @@
-# 🌊 Solana Token Launcher & Liquidity Pool Manager
+# 
+
+🌊 Solana Token Launcher & Liquidity Pool Manager
 
 A full-stack dApp to **create custom Token-2022 tokens**, launch **SOL-based liquidity pools**, and manage **deposits** and **LP token burns** — powered by Raydium SDK on Solana Devnet.
 
+https://github.com/user-attachments/assets/82937879-d310-430b-baff-790e71d2fa62
+
 ---
 
+Try the deployed link : [HERE](https://raydium-pool.vercel.app/)
+
+---
 ## 🚀 Features
 
 - 🪙 **Create Custom SPL Tokens**
