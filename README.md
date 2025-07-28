@@ -1,8 +1,37 @@
-# React + Vite
+# 🌊 Solana Token Launcher & Liquidity Pool Manager
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A full-stack dApp to **create custom Token-2022 tokens**, launch **SOL-based liquidity pools**, and manage **deposits** and **LP token burns** — powered by Raydium SDK on Solana Devnet.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+
+- 🪙 **Create Custom SPL Tokens**
+  - With Token-2022 support
+  - Image URL validation, symbol, supply
+
+- 🧪 **Launch SOL Liquidity Pools**
+  - Raydium CPMM Pools
+  - Token-SOL pairing
+  - Full on-chain interaction
+
+- 💧 **Deposit Liquidity**
+  - Validates token/SOL balance
+  - Calculates required counterpart
+  - Handles Token-2022 ATA logic
+
+- 🔥 **Burn LP Tokens**
+  - Withdraw liquidity from Raydium pool
+  - Automatic slippage handling
+
+---
+
+## 🛠 Tech Stack
+
+- 🦄 React + Vite
+- 💼 @solana/web3.js, @solana/spl-token
+- 🧪 Raydium SDK v2
+- 🍞 react-toastify
+- 🌐 Wallet Adapter
+
+---
